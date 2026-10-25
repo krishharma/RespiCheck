@@ -1,0 +1,2 @@
+This file marks where CoughRiskClassifier.mlmodel should be added.
+It is not a Core ML model and the app does not load it.

@@ -43,6 +43,8 @@ This is a screening and navigation aid. It does not diagnose pneumonia or replac
 
 The risk label in this repository is a **simulated result** used to demonstrate the flow. The cough is recorded for real. It is not sent to a diagnostic model, and it is not a medical device.
 
+The folders under [`ai/`](ai/README.md) are empty placeholders for that model: weights, audio features, training, evaluation, and the Swift call the app would make. Nothing in those folders is a trained classifier.
+
 ## Stack
 
 | | |
@@ -58,6 +60,13 @@ The risk label in this repository is a **simulated result** used to demonstrate 
 ## Repository layout
 
 ```
+ai/                         Placeholder slots for a future on-device model
+  models/                   Core ML file goes here
+  features/                 Cough audio features
+  training/                 Training script
+  evaluation/               Metrics
+  inference/                Swift interface
+  data/                     Dataset notes only; no recordings are committed
 PnScreener/                 Xcode project and app source
   PnScreener/
     Models/                 User, survey, audio, providers
