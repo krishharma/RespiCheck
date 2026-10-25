@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  PnScreener
+  
+  English localization strings
+*/
+
+// Common
+"app_name" = "RespiCheck";
+"continue" = "Continue";
+"back" = "Back";
+"next" = "Next";
+"cancel" = "Cancel";
+"submit" = "Submit";
+"get_started" = "Get Started";
+"yes" = "Yes";
+"no" = "No";
+"ok" = "OK";
+"done" = "Done";
+"close" = "Close";
+
+// Splash Screen
+"tagline" = "Screen for pneumonia risk and connect to care";
+"privacy_notice" = "Your privacy is important!";
+"select_language" = "Select Your Language";
+
+// User Info
+"profile_setup" = "Let's Get Your Profile Set Up";
+"profile_subtitle" = "This helps us personalize your experience";
+"enable_location" = "Enable Location Services";
+"location_description" = "Location is used to find nearby clinics and provide localized health information.";
+"allow_location" = "Allow Location Access";
+"insurance_question" = "Do you have health insurance?";
+"preferred_language" = "What is your preferred language?";
+"personalize_experience" = "Help Us Personalize Your Experience";
+"optional" = "(Optional)";
+"age" = "Age";
+"gender" = "Gender";
+
+// Symptom Survey
+"symptom_checker" = "Symptom Checker";
+"step_of" = "Step %d of %d";
+"survey_complete" = "Survey Complete!";
+
+// Audio Recording
+"record_cough" = "Record Your Cough";
+"recording_instructions" = "How to record your cough";
+"ready_to_record" = "Ready to Record";
+"recording" = "Recording...";
+"listen" = "Listen";
+"re_record" = "Re-record";
+
+// Analysis
+"analyzing" = "Analyzing Your Breathing";
+"analysis_subtitle" = "This may take a moment";
+"whats_happening" = "What's happening?";
+
+// Results
+"assessment_result" = "Assessment Result";
+"low_risk" = "Low Risk";
+"moderate_risk" = "Moderate Risk";
+"high_risk" = "High Risk";
+"confidence" = "Assessment Confidence";
+"summary_results" = "Summary of Your Results";
+"how_calculated" = "How is this score calculated?";
+"recommended_steps" = "See Recommended Next Steps";
+
+// Provider Navigation
+"connect_to_care" = "Connect to Care";
+"providers_near_you" = "%d providers near you";
+"emergency" = "Emergency?";
+"call_911" = "Call 911 for immediate assistance";
+"find_care_now" = "Find Care Now";
+
+// Resources
+"health_resources" = "Health Resources";
+"learn_more" = "Learn more about respiratory health";
+"trusted_resources" = "Trusted Health Resources";
+
+// Settings
+"settings" = "Settings";
+"profile" = "Profile";
+"update_profile" = "Update Profile";
+"privacy_data" = "Privacy & Data";
+"privacy_policy" = "Privacy Policy";
+"delete_data" = "Delete All Session Data";
+"help_support" = "Help & Support";
+"about_app" = "About RespiCheck";
+"contact_us" = "Contact Us";
+"app_info" = "App Information";
+"version" = "Version";
+"build" = "Build";
+
+// Error Messages
+"error_location" = "Unable to access location";
+"error_recording" = "Unable to record audio";
+"error_analysis" = "Analysis failed";
+
+// Accessibility
+"help" = "Help";
+"info" = "Information";
+"warning" = "Warning";
+

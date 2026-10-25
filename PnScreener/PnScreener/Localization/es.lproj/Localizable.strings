@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  PnScreener
+  
+  Spanish localization strings
+*/
+
+// Common
+"app_name" = "RespiCheck";
+"continue" = "Continuar";
+"back" = "Atrás";
+"next" = "Siguiente";
+"cancel" = "Cancelar";
+"submit" = "Enviar";
+"get_started" = "Comenzar";
+"yes" = "Sí";
+"no" = "No";
+"ok" = "OK";
+"done" = "Listo";
+"close" = "Cerrar";
+
+// Splash Screen
+"tagline" = "Evalúe el riesgo de neumonía y conéctese con atención";
+"privacy_notice" = "¡Su privacidad es importante!";
+"select_language" = "Seleccione su idioma";
+
+// User Info
+"profile_setup" = "Configuremos su perfil";
+"profile_subtitle" = "Esto nos ayuda a personalizar su experiencia";
+"enable_location" = "Habilitar servicios de ubicación";
+"location_description" = "La ubicación se utiliza para encontrar clínicas cercanas y proporcionar información de salud localizada.";
+"allow_location" = "Permitir acceso a ubicación";
+"insurance_question" = "¿Tiene seguro médico?";
+"preferred_language" = "¿Cuál es su idioma preferido?";
+"personalize_experience" = "Ayúdenos a personalizar su experiencia";
+"optional" = "(Opcional)";
+"age" = "Edad";
+"gender" = "Género";
+
+// Symptom Survey
+"symptom_checker" = "Verificador de síntomas";
+"step_of" = "Paso %d de %d";
+"survey_complete" = "¡Encuesta completa!";
+
+// Audio Recording
+"record_cough" = "Grabe su tos";
+"recording_instructions" = "Cómo grabar su tos";
+"ready_to_record" = "Listo para grabar";
+"recording" = "Grabando...";
+"listen" = "Escuchar";
+"re_record" = "Volver a grabar";
+
+// Analysis
+"analyzing" = "Analizando su respiración";
+"analysis_subtitle" = "Esto puede tomar un momento";
+"whats_happening" = "¿Qué está pasando?";
+
+// Results
+"assessment_result" = "Resultado de evaluación";
+"low_risk" = "Riesgo bajo";
+"moderate_risk" = "Riesgo moderado";
+"high_risk" = "Riesgo alto";
+"confidence" = "Confianza de evaluación";
+"summary_results" = "Resumen de sus resultados";
+"how_calculated" = "¿Cómo se calcula esta puntuación?";
+"recommended_steps" = "Ver pasos recomendados";
+
+// Provider Navigation
+"connect_to_care" = "Conectarse con atención";
+"providers_near_you" = "%d proveedores cerca de usted";
+"emergency" = "¿Emergencia?";
+"call_911" = "Llame al 911 para asistencia inmediata";
+"find_care_now" = "Encontrar atención ahora";
+
+// Resources
+"health_resources" = "Recursos de salud";
+"learn_more" = "Aprenda más sobre salud respiratoria";
+"trusted_resources" = "Recursos de salud confiables";
+
+// Settings
+"settings" = "Configuración";
+"profile" = "Perfil";
+"update_profile" = "Actualizar perfil";
+"privacy_data" = "Privacidad y datos";
+"privacy_policy" = "Política de privacidad";
+"delete_data" = "Eliminar todos los datos de sesión";
+"help_support" = "Ayuda y soporte";
+"about_app" = "Acerca de RespiCheck";
+"contact_us" = "Contáctenos";
+"app_info" = "Información de la aplicación";
+"version" = "Versión";
+"build" = "Compilación";
+
+// Error Messages
+"error_location" = "No se puede acceder a la ubicación";
+"error_recording" = "No se puede grabar audio";
+"error_analysis" = "Análisis fallido";
+
+// Accessibility
+"help" = "Ayuda";
+"info" = "Información";
+"warning" = "Advertencia";
+
